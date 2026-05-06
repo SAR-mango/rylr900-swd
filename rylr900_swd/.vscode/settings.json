@@ -1,0 +1,7 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=/Users/erksampat/dev/rylr900-swd/rylr900_swd/out/rylr900_swd/STM32L151C8TxA/Debug"
+    ],
+    "debug.hideSlowPreLaunchWarning": true,
+    "debug.showInStatusBar": "never"
+}
